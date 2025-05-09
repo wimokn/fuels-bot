@@ -1,0 +1,7 @@
+[project]
+authors = ["Wimok Noppiboon"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "fuels-bot"
+
+[dependencies]
